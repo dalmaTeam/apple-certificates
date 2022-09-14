@@ -48,11 +48,11 @@ For more information open [fastlane match git repo](https://docs.fastlane.tools/
 
 #### certs
 
-This directory contains all your certificates with their private keys
+This directory contains all your certificates with their private keys.
 
 #### profiles
 
-This directory contains all provisioning profiles
+This directory contains all provisioning profiles.
 
 ---
 
